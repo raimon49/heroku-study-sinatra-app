@@ -4,7 +4,7 @@
 
 ## URL
 
-https://shrouded-caverns-21213.herokuapp.com/
+https://gentle-brushlands-00170.herokuapp.com/
 
 ## Deploy command
 
